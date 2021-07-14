@@ -1,0 +1,43 @@
+html {
+  font-family:cursive;
+  border: 1px solid black;
+  margin: 5px 5px 5px;
+}
+    /*--------------------------------------------------------------*/
+header {
+  padding-left: 10px;
+}
+
+    /*------------------------------------------------------------=*/
+.notes {
+  width: auto;
+  height: 400px;
+  border: 1px solid black;
+  padding-left: 10px; 
+}
+
+      /*----------------------------------------------------------*/
+.createNote {
+  width: auto;
+  height: 200px;
+  border: 1px solid black;
+  padding-left: 10px;
+  margin-top: 10px;
+}
+
+    /*------------------------------------------------------------*/
+.title {
+  margin-bottom: 5px;
+
+}   
+
+button {
+  margin-top: 7px;
+}
+
+ /*-------------------------------------------------------------*/
+ footer {
+  border-top: 1px solid black;
+  margin-top:10px;
+  padding-left: 10px;
+ }
